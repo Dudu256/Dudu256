@@ -1,4 +1,5 @@
 ### Hi there 👋
+# Me chamo Eduardo Rodrigue, sou um entusiata da programação e estou mergulhando nesse mundo novo. 
 
 <!--
 **Dudu256/Dudu256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
