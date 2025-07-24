@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/Dudu256/Dudu256/blob/main/Hello%20neig.png?raw=true" alt="Banner do Perfil">
-  <h1 align="center">Olá, eu sou o(a) Eduardo 👋</h1>
+  <h1 align="center">Olá, eu sou o Eduardo 👋</h1>
 </div>
 
 ---
